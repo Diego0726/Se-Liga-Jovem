@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Mind_in_din",
-    "slug": "Mind_in_din",
+    "name": "My_app",
+    "slug": "My_app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
