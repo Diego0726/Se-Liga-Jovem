@@ -1,6 +1,6 @@
 # Se-Liga-Jovem
 
-Salve Gisele! segue em baixo o passo a passo do que baixar parar que programa funcione.
+Salve! segue em baixo o passo a passo do que baixar parar que programa funcione.
 
 1# Primeiro você baixa o NODE nesse link aqui: https://nodejs.org/pt ai você baixa a versão LTS 
 
